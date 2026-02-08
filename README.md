@@ -16,6 +16,6 @@ Client-server uses Java RMI; inter-server uses UDP.
 - Server-side concurrency control
 
 ## Documentation
-- Design Document: A1_Design_Doc_40167688.pdf
+- Design Document: A1_Design_Doc.pdf
 - UML Diagram: UML_A1.png
 - Test Notes: TestNote.docx
