@@ -1,7 +1,7 @@
 
 # Distributed Vehicle Reservation Management System (DVRMS)
 
-Course: COMP 6231 – Distributed Systems
+Course: Distributed Systems
 
 ## Overview
 Distributed vehicle reservation system with three office servers (MTL, WPG, BNF).
