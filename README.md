@@ -1,4 +1,4 @@
-@'
+
 # Distributed Vehicle Reservation Management System (DVRMS)
 
 Course: COMP 6231 – Distributed Systems
